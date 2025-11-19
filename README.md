@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Junior Novais
 
-**`Desenvolvedor Full-Stack`**
+**`Desenvolvedor`**
 👋 Me chamo Adailton Junior Novais Mafra, tenho 18 anos e sou estágiario de desenvolvimento de software e suporte na Paulo Rocha Barra Advogados Associados.
 <br>
 🎓 Atualmente, curso Sistemas de Informação na Unex.
