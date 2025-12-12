@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000080"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0059FF"/>
 
 <div align="center">
   <h2>
@@ -8,7 +8,7 @@
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=000080&width=1000&size=22&center=true&lines=I+am+a++Developer;Be+Welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=0059FFwidth=1000&size=22&center=true&lines=I+am+a++Developer;Be+Welcome!" alt="Typing SVG"/>
 </div>
 
 ##
@@ -19,7 +19,7 @@ Sou desenvolvedor back-end, atualmente estou cursando Sistemas de Informação n
 
 
 
-Tenho 6 meses de experiência e trabalho na Paulo Rocha Barra Advogados & Advogados Associados, onde criamos sistemas de automação, ferramentas de auxílio a setores admnistrátivos e financeiros e contribuo para soluções internas de suporte. Atuo com Python, PlayWright, Selenium, PHP, JavaScript, desenvolvimento web, MySQL.
+Tenho 6 meses de experiência e trabalho na Paulo Rocha Barra & Advogados Associados, onde criamos sistemas de automação, ferramentas de auxílio a setores admnistrátivos e financeiros e contribuo para soluções internas de suporte. Atuo com Python, PlayWright, Selenium, PHP, JavaScript, desenvolvimento web, MySQL.
 
 ##
 ### ⚒️ Linguagens e Tecnologias
@@ -44,4 +44,4 @@ Tenho 6 meses de experiência e trabalho na Paulo Rocha Barra Advogados & Advoga
   <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adailtonmafraprb&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"/>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0059FF&height=100&section=footer"/>
