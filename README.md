@@ -1,14 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000080"/>
 
 <div align="center">
-  <samp>
+  <h2>
      Opa, meu nome é Junior Mafra</b>
-  </samp>
+  </h2>
 </div>
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=000080&width=900&size=22&center=true&lines=I+am+a++Developer;Be+Welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=000080&width=1000&size=22&center=true&lines=I+am+a++Developer;Be+Welcome!" alt="Typing SVG"/>
 </div>
 
 ##
