@@ -1,98 +1,47 @@
-# 👩🏻‍💻 Junior Novais
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000080"/>
 
-**`Desenvolvedor`**
-👋 Me chamo Adailton Junior Novais Mafra, tenho 18 anos e sou estágiario de desenvolvimento de software e suporte na Paulo Rocha Barra Advogados Associados.
+<div align="center">
+  <samp>
+     Opa, meu nome é Junior Mafra</b>
+  </samp>
+</div>
 <br>
-🎓 Atualmente, curso Sistemas de Informação na Unex.
-<br>
-💻 Sou apaixonado por tecnologia, principalmente por desenvolvimento backend, e estou sempre buscando evoluir minhas habilidades em programação.
-<br>
-🚀 GitHub para fins profissionais.
-<br>
-🔍 Meu objetivo é me tornar um desenvolvedor full-stack completo, com foco em soluções modernas, seguras e inteligentes.
-<br>
-🤝 "O meu código não tem bugs, ele só tem funcionalidades não documentadas"
 
----
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=000080&width=900&size=22&center=true&lines=I+am+a++Developer;Be+Welcome!" alt="Typing SVG"/>
+</div>
 
-### 🤖 Linguagens e Tecnologias
+##
+### 🚀 Sobre mim
+
+Sou desenvolvedor back-end, atualmente estou cursando Sistemas de Informação na UNEX. Sou apaixonado por tecnologia, Minha base técnica envolve Java, JavaScript, Express, Node, Prisma ORM, SQL, PostgreSQL e Apis Rest, sempre priorizando desempenho, usabilidade e acessibilidade.
+<br>
 
 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/><img 
-    align="left" 
-    alt="Express" 
-    title="Express"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
-/>
- <img
-    align="left" 
-    alt="Node" 
-    title="Node"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
- 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img
-    align="left" 
-    alt="PlayWright" 
-    title="PlayWright"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" 
-/>
-<img
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-/>
-<img
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-<img
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<br/>
+
+Tenho 6 meses de experiência e trabalho na Paulo Rocha Barra Advogados & Advogados Associados, onde criamos sistemas de automação, ferramentas de auxílio a setores admnistrátivos e financeiros e contribuo para soluções internas de suporte. Atuo com Python, PlayWright, Selenium, PHP, JavaScript, desenvolvimento web, MySQL.
+
+##
+### ⚒️ Linguagens e Tecnologias
+<div align="center" style="display: inline_block">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Javasricpt" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="MySQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>          
+  <img align="center" alt="MySQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+  <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img align="center" alt="MySQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg"/>
+  <img align="center" alt="MySQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>       
+</div>
 <br/>
 
+##
+### 📊 Estatísticas
+<div align="center">
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=adailtonmafraprb&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adailtonmafraprb&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"/>
+</div>
 
-<p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=adailtonmafraprb&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=100&section=footer"/>
