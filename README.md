@@ -19,7 +19,7 @@ Sou desenvolvedor back-end, atualmente estou cursando Sistemas de Informação n
 
 
 
-Tenho 6 meses de experiência e trabalho na Paulo Rocha Barra & Advogados Associados, onde criamos sistemas de automação, ferramentas de auxílio a setores admnistrátivos e financeiros e contribuo para soluções internas de suporte. Atuo com Python, PlayWright, Selenium, PHP, JavaScript, desenvolvimento web, MySQL.
+Tenho 6 meses de experiência e sou estágiario na Paulo Rocha Barra & Advogados Associados, onde criamos sistemas de automação, ferramentas de auxílio a setores administrativos e financeiros e contribuo para soluções internas de suporte. Atuo com Python, PlayWright, Selenium, PHP, JavaScript, desenvolvimento web, MySQL.
 
 ##
 ### ⚒️ Linguagens e Tecnologias
