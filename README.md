@@ -19,7 +19,7 @@ Sou desenvolvedor back-end, atualmente estou cursando Sistemas de Informação n
 
 
 
-Tenho 6 meses de experiência e sou estágiario na Paulo Rocha Barra & Advogados Associados, onde criamos sistemas de automação, ferramentas de auxílio a setores administrativos e financeiros e contribuo para soluções internas de suporte. Atuo com Python, PlayWright, Selenium, PHP, JavaScript, desenvolvimento web, MySQL.
+Tenho 19 anos e sou estágiario na Paulo Rocha Barra & Advogados Associados, onde criamos sistemas de automação, ferramentas de auxílio a setores administrativos e financeiros e contribuo para soluções internas de suporte. Atuo com Python, PlayWright, Selenium, PHP, JavaScript, desenvolvimento web, MySQL.
 
 ##
 ### ⚒️ Linguagens e Tecnologias
@@ -27,13 +27,16 @@ Tenho 6 meses de experiência e sou estágiario na Paulo Rocha Barra & Advogados
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Javasricpt" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="MySQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>          
-  <img align="center" alt="MySQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
-  <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg">
+  <img align="center" alt="MySQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>       
+  <img align="center" alt="bootstrap" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>          
+  <img align="center" alt="python" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img align="center" alt="selenium" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+  <img align="center" alt="playwright" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="center" alt="MySQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg"/>
-  <img align="center" alt="MySQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>       
+  <img align="center" alt="MySQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/> 
+
+  
 </div>
 <br/>
 
