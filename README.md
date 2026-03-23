@@ -43,8 +43,9 @@ Tenho 19 anos e sou estágiario na Paulo Rocha Barra & Advogados Associados, ond
 ##
 ### 📊 Estatísticas
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=adailtonmafraprb&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adailtonmafraprb&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"/>
+  <img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats-eight-pi-72.vercel.app/api?username=adailtonmafraprb&theme=tokyonight&font=Iosevka" />
+
+  <img height="180" alt="Top Languages" src="https://github-readme-stats-eight-pi-72.vercel.app/api/top-langs/?username=adailtonmafraprb&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight&count_private=true" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0059FF&height=100&section=footer"/>
