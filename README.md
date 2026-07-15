@@ -1,51 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0059FF"/>
+<p>👨‍💻 fullstack developer at Paulo Barra & Advogados Associados.</p>
+<p>🎓 Information Systems student at <a href="[https://portal.anhembi.br/?gad_source=1&gclid=CjwKCAiApuCrBhAuEiwA8VJ6JiDseguF4XHpGJ1gHQAwfFJtjnb7r05FtNFFAayWa_aFYNKWyJLu0BoCi0MQAvD_BwE](https://unex.edu.br/)" target="blank_">Unex</a></p>
+<hr>
 
-<div align="center">
-  <h2>
-     Opa, meu nome é Junior Mafra</b>
-  </h2>
-</div>
-<br>
-
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=0059FFwidth=1000&size=22&center=true&lines=I+am+a++Developer;Be+Welcome!" alt="Typing SVG"/>
-</div>
-
-##
-### 🚀 Sobre mim
-
-Sou desenvolvedor back-end, atualmente estou cursando Sistemas de Informação na UNEX. Sou apaixonado por tecnologia, Minha base técnica envolve Java, JavaScript, Express, Node, Prisma ORM, SQL, PostgreSQL e Apis Rest, sempre priorizando desempenho, usabilidade e acessibilidade.
-<br>
-
-
-
-Tenho 19 anos e sou estágiario na Paulo Rocha Barra & Advogados Associados, onde criamos sistemas de automação, ferramentas de auxílio a setores administrativos e financeiros e contribuo para soluções internas de suporte. Atuo com Python, PlayWright, Selenium, PHP, JavaScript, desenvolvimento web, MySQL.
-
-##
-### ⚒️ Linguagens e Tecnologias
-<div align="center" style="display: inline_block">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Javasricpt" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="MySQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>       
-  <img align="center" alt="bootstrap" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>          
-  <img align="center" alt="python" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img align="center" alt="selenium" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
-  <img align="center" alt="playwright" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  <img align="center" alt="MySQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg"/>
-  <img align="center" alt="MySQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/> 
-
-  
-</div>
-<br/>
-
-##
-### 📊 Estatísticas
-<div align="center">
-  <img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats-eight-pi-72.vercel.app/api?username=adailtonmafraprb&theme=tokyonight&font=Iosevka" />
-
-  <img height="180" alt="Top Languages" src="https://github-readme-stats-eight-pi-72.vercel.app/api/top-langs/?username=adailtonmafraprb&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight&count_private=true" />
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0059FF&height=100&section=footer"/>
+[![My Skills](https://skillicons.dev/icons?i=js,react,bootstrap,php,python,postgresql,mysql,git,docker,)](https://skillicons.dev)
